@@ -1,0 +1,3 @@
+window.env = {
+  "CONTRACT_ADDRESS": "0x41F96163fCCdDF8df0bAa5c1df4f7964c1291e47"
+};
